@@ -16,5 +16,23 @@
         "wildrydesc0b0e678": {}
       }
     }
+  },
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wildrydes-main-dc783-authRole",
+      "UnauthRoleArn": "arn:aws:iam::047719631045:role/amplify-wildrydes-main-dc783-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::047719631045:role/amplify-wildrydes-main-dc783-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wildrydes-main-dc783-deployment",
+      "UnauthRoleName": "amplify-wildrydes-main-dc783-unauthRole",
+      "StackName": "amplify-wildrydes-main-dc783",
+      "StackId": "arn:aws:cloudformation:us-east-1:047719631045:stack/amplify-wildrydes-main-dc783/c9608260-6cf4-11ef-82d9-0affef1ff321",
+      "AmplifyAppId": "d13kg3yjehf51q"
+    },
+    "categories": {
+      "auth": {
+        "wildrydesc0b0e678": {}
+      }
+    }
   }
 }
